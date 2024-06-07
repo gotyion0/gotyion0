@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Panda;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(MG%2FBH);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+18+years+old" alt="Typing SVG" /></a>
+
